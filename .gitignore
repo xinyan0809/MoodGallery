@@ -9,9 +9,15 @@ build/
 db.sqlite3
 media/
 
+# Virtual environment
+.venv/
+
 # Environment
 .env
 *.env
+
+# Claude Code
+.claude/
 
 # IDE
 .vscode/
